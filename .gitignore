@@ -13,7 +13,7 @@ __pycache__/
 .DS_Store
 
 # Kernel build/generated files
-*.o
+.o
 *.ko
 *.mod
 *.mod.c
