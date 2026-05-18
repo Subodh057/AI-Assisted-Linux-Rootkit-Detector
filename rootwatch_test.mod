@@ -1,1 +1,0 @@
-./rootwatch_test.o
